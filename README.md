@@ -1,0 +1,1 @@
+# SQL-Deduction-of-product-quantity
